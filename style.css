@@ -316,8 +316,9 @@ nav img{
 .third_page{
     width: 100vw;
     height: 65vh;
-    background-color: black;
+    background-image: url(image/scenery.jpg);
     overflow: hidden;
+
 }
 .para1{
     color: #fff;
